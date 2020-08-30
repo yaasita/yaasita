@@ -1,5 +1,5 @@
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yaasita&count_private=true&show_icons=true&include_all_commits=true&line_height=10)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yaasita&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaasita&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 
